@@ -30,8 +30,14 @@ Building practical digital experiences, learning by creating, and turning ideas 
 
 ## 🚀 Featured Project
 
-### [NasserApp](https://github.com/nasar721/NasserApp)
-An Android application project under development. Follow the repository for source updates and build progress.
+### [nasar-soft](https://github.com/nasar721/nasar-soft)
+An AI Studio application project with local Node.js setup.
+
+### [nasar721-ai](https://github.com/nasar721/nasar721-ai)
+A Next.js conversational AI starter featuring streaming responses, function calling, web search, file search, and integration examples.
+
+### NasserApp
+A private Android application project currently under development.
 
 ## 🧭 Current Focus
 
