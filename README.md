@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="Nasser — Software, Android and AI" width="100%" />
+
 # ناصر | Nasser
 
 ### Software Developer in Progress · Android · AI · Automation
