@@ -1,76 +1,69 @@
-<!--
-  GitHub profile README for @nasar721
-  Keep this profile focused on real projects and continuous learning.
--->
+<!-- GitHub profile README for @nasar721 -->
 
 <div align="center">
 
 <img src="assets/profile-banner.svg" alt="Nasser — Software, Android and AI" width="100%" />
 
-# ناصر | Nasser
+# ناصر منصور ثابت أحمد ضوره | Nasser
 
-### Software Developer in Progress · Android · AI · Automation
+### Software · Android · AI · Automation
 
-Building practical digital experiences, learning by creating, and turning ideas into working projects.
+أحوّل الأفكار إلى مشاريع رقمية عملية، وأتعلم بالتجربة والتطوير المستمر.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nasar721-181717?style=for-the-badge&logo=github)](https://github.com/nasar721)
-[![Profile](https://img.shields.io/badge/Profile-Open-2ea44f?style=for-the-badge)](https://github.com/nasar721)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | نبذة عني
 
-- 📱 Interested in Android application development.
-- 🤖 Exploring artificial intelligence and AI-powered applications.
-- ⚙️ Interested in automation and useful software tools.
-- 🌱 Learning continuously through practical projects.
-- 🎯 Focused on building reliable, simple, and helpful digital solutions.
+- 📱 مهتم بتطوير تطبيقات Android وتجارب الويب.
+- 🤖 أستكشف تطبيقات الذكاء الاصطناعي والمساعدات الذكية.
+- 🧾 أعمل على أفكار لأنظمة الإدارة والمحاسبة والمخزون.
+- ⚙️ أهتم بالأتمتة وتحسين سير العمل.
+- 🌱 أتعلم باستمرار من خلال بناء مشاريع عملية.
 
-## 🚀 Featured Project
+## 🚀 Featured Projects | مشاريع مختارة
 
-### [nasar-soft](https://github.com/nasar721/nasar-soft)
-An AI Studio application project with local Node.js setup.
-
-### [nasar721-ai](https://github.com/nasar721/nasar721-ai)
-A Next.js conversational AI starter featuring streaming responses, function calling, web search, file search, and integration examples.
-
-### NasserApp
-A private Android application project currently under development.
-
-## 🧭 Current Focus
-
-| Area | Focus |
+| المشروع | الوصف |
 | --- | --- |
-| Android | Application structure, UI, and builds |
-| Artificial Intelligence | Learning AI integration and safe API architecture |
-| Automation | Streamlining repetitive tasks |
-| Git & GitHub | Version control, workflows, and project collaboration |
+| [NasserApp](https://github.com/nasar721/NasserApp) | تطبيق Android خاص قيد التطوير، مع إعداد بناء APK تلقائي عبر GitHub Actions. |
+| [Nasser Soft](https://github.com/nasar721/nasar-soft) | تطبيق ويب عربي لإدارة العمليات والفواتير والمخزون. |
+| [Ramadan Companion](https://github.com/nasar721/Ramadan-facilities-) | تطبيق ويب ثنائي اللغة يضم أدوات ومحتوى لشهر رمضان. |
+| [AI Assistant Starter](https://github.com/nasar721/nasar721-ai) | مشروع تأسيسي لمساعد محادثة يدعم تكامل الأدوات والبحث والملفات. |
+| [Moltbot](https://github.com/nasar721/moltbot) | مستودع لمشروع مساعد ذكي شخصي مفتوح المصدر. |
+| [Nano Banana Pro Prompts](https://github.com/nasar721/awesome-nano-banana-pro-prompts) | مجموعة منظمة من البرومبتات والأفكار الإبداعية لتوليد الصور. |
+
+## 🧭 Current Focus | ما أعمل عليه
+
+| المجال | التركيز |
+| --- | --- |
+| Android | بنية التطبيقات والواجهات وعمليات البناء |
+| Web Development | تطبيقات الويب وتجربة المستخدم |
+| Artificial Intelligence | دمج خدمات الذكاء الاصطناعي وبناء المساعدات |
+| Automation | أتمتة المهام وسير العمل |
+| GitHub Actions | بناء المشاريع واختبارها آلياً |
 
 ## 🛠️ Tools & Technologies
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 🇸🇦 نبذة بالعربية
+## 🤝 Explore & Collaborate
 
-أنا ناصر، مهتم بتطوير البرمجيات وتطبيقات أندرويد والذكاء الاصطناعي والأتمتة.
-
-أتعلم من خلال التجربة والعمل على مشاريع عملية، وأسعى إلى تحويل الأفكار إلى تطبيقات وأدوات رقمية مفيدة، مع الاهتمام بجودة التنفيذ والتطوير المستمر.
-
-## 🤝 Connect
-
-- GitHub: [@nasar721](https://github.com/nasar721)
-- Explore my repositories: [ github.com/nasar721?tab=repositories ](https://github.com/nasar721?tab=repositories)
+- Browse all [repositories](https://github.com/nasar721?tab=repositories).
+- افتح Issue لاقتراح تحسين أو الإبلاغ عن مشكلة.
+- المساهمات والأفكار البنّاءة مرحّب بها.
 
 ---
 
 <div align="center">
 
-**Learn · Build · Improve**
+**Learn · Build · Improve | تعلّم · ابنِ · طوّر**
 
 </div>
